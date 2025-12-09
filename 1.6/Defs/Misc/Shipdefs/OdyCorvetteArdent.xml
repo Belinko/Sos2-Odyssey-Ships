@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<SaveOurShip2.ShipDef>
-		<defName>OdyCorvetteArdent</defName>
+		<defName>OdyCorvetteArdentMult</defName>
 		<saveSysVer>2</saveSysVer>
 		<offsetX>100</offsetX>
 		<offsetZ>109</offsetZ>
