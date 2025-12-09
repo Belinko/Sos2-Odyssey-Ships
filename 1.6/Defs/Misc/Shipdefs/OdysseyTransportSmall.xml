@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<SaveOurShip2.ShipDef>
-		<defName>OdysseyTransportSmall</defName>
+		<defName>OdyTransportSmall</defName>
 		<saveSysVer>2</saveSysVer>
 		<offsetX>108</offsetX>
 		<offsetZ>106</offsetZ>
 		<sizeX>30</sizeX>
 		<sizeZ>22</sizeZ>
-		<label>[INSERT IN-GAME NAME HERE]</label>
+		<label>Small Transport</label>
 		<combatPoints>65</combatPoints>
 		<rarityLevel>0</rarityLevel>
 		<neverRandom>False</neverRandom>
